@@ -1,0 +1,15 @@
+- comments, saved, favs number of tweet (some kind of pagination), currently fetches user objects completely
+- improve types (tweet and user kinds)
+- hatalarda spinner durmalı ve hata mesajı
+- register sonrası redirect
+- recommended users for a user algorithm
+- retweeted span check and fix
+- implement a decent theme selector
+- make link everything necessary (hashtag, profile names, avatars)
+- testing
+- route match not found (handle somehow)
+- recommendedusers ayrı bi component yap
+- paginated response (page number, item count, next page)
+- max limit pagination
+- multer
+- banner picture (database too)
